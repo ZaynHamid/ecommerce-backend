@@ -16,7 +16,7 @@ A simple e-commerce backend built with Flask, MySQL, Stripe, and JWT authenticat
 1. **Clone the repo**
    ```sh
    git clone https://github.com/yourusername/ecomm-backend.git
-   cd ecomm-backend
+   cd ecommerce-backend
    ```
 
 2. **Install dependencies**
